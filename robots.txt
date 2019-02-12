@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eishaez.codekitchen.club/sitemap.xml
